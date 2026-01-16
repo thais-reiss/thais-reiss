@@ -178,6 +178,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img align="right" width="300px" src="assets/gif-gato.gif">
 
 
