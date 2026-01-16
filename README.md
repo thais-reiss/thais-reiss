@@ -10,7 +10,7 @@ Eu sou a Thaís Reis, estudante de Engenharia de Software na PUC Minas.
 Em constante aprendizado, adoro ver ideias se transformarem em soluções reais.
 Cada projeto tem sido uma oportunidade de crescer técnica e pessoalmente.
 
-Tenho aprofundado meus conhecimentos em Java, SpringBoot, Python e JavaScript.
+Tenho aprofundado meus conhecimentos em Java, Spring Boot, Python e JavaScript.
 ```
 <br/>
 
