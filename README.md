@@ -1,5 +1,3 @@
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=thais-reiss&color=green)
-
 ## 👩🏻‍💻 Thaís Reis
 
 **`Desenvolvedora de Software`**
