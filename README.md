@@ -7,7 +7,7 @@
 ```bash
 Olá 😉
 Eu sou a Thaís Reis, estudante de Engenharia de Software na PUC Minas. 
-Estou em constante aprendizado e adoro ver ideias se transformarem em soluções reais.
+Em constante aprendizado, adoro ver ideias se transformarem em soluções reais.
 Cada projeto tem sido uma oportunidade de crescer técnica e pessoalmente.
 
 Tenho aprofundado meus conhecimentos em Java, SpringBoot, Python e JavaScript.
