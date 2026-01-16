@@ -2,32 +2,19 @@
 
 **`Desenvolvedora de Software`**
 
-Sou estudante de Engenharia de Software na Puc Minas, atualmente no 6° período!
+<img align="right" width="280" src="assets/gif-github.gif">
 
-<img align="right" width="300" src="assets/img-github.jpg">
+```bash
+Olá 😉
+Eu sou a Thaís Reis, estudante de Engenharia de Software na PUC Minas. 
+Estou em constante aprendizado e adoro ver ideias se transformarem em soluções reais.
+Cada projeto tem sido uma oportunidade de crescer técnica e pessoalmente.
 
-### Sobre o Projeto
-Este texto ficará à esquerda, enquanto a imagem ou GIF será empurrado 
-para a extremidade direita da tela. É um layout muito mais limpo 
-que o de tabelas, pois não possui bordas ou divisórias visíveis.
-
-<br clear="right" />
-
-<p>
-  <a href="https://www.linkedin.com/in/thais-reis-016a66276/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:thaisthatareis@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/thaisdreis_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+Tenho aprofundado meus conhecimentos em Java, SpringBoot, Python e JavaScript.
+```
+<br/>
 
 ---
-
-
 
 <h2 align="center">🤖 Linguagens e Tecnologias</h2>
 <br/>
@@ -110,6 +97,13 @@ que o de tabelas, pois não possui bordas ou divisórias visíveis.
       style="padding-right: 16px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
   />
+   <img 
+      alt="Postman" 
+      title="Postman"
+      width="48px" 
+      style="padding-right: 16px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+  />
 </div>
 
 <br/>
@@ -131,7 +125,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h2 align="center">📊 Estatísticas</h2>
+<br/>
 <table>
   <tr>
     <td>
@@ -157,5 +152,23 @@ Here are some ideas to get you started:
 </table>
 
 ---
+
+![Snake animation](https://github.com/thais-reis/thais-reis/blob/output/github-contribution-grid-snake.svg)
+
+---
+<h2 align="center">🤖 Onde me encontrar </h2>
+
+<br clear="right" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/thais-reis-016a66276/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thaisthatareis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/thaisdreis_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 
