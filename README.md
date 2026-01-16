@@ -4,6 +4,15 @@
 
 Sou estudante de Engenharia de Software na Puc Minas, atualmente no 6° período!
 
+<img align="right" width="300" src="assets/img-github.jpg">
+
+### Sobre o Projeto
+Este texto ficará à esquerda, enquanto a imagem ou GIF será empurrado 
+para a extremidade direita da tela. É um layout muito mais limpo 
+que o de tabelas, pois não possui bordas ou divisórias visíveis.
+
+<br clear="right" />
+
 <p>
   <a href="https://www.linkedin.com/in/thais-reis-016a66276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
