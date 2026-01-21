@@ -163,7 +163,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center">😎 Onde me encontrar </h2>
+<h2 align="center">🌐 Onde me encontrar </h2>
 
 <br clear="right" />
 <p align="center">
